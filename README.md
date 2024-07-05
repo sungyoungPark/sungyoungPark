@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyoungPark&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungyoungPark
 )](https://github.com/sungyoungPark
 /github-readme-stats)
